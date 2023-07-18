@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.singleProductContainer{
+  border: 2px solid grey;
+  margin: 10px;
+  border-radius: 10px;
+}
+.top{
+display: flex;
+}
+.topLeft{
+  flex:0.5;
+}
+.topMiddle{
+  flex:1;
+}
+.topRight{
+  flex:1;
+}
+.middle{
+
+}
+.bottom{
+
+}
