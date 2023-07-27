@@ -1,5 +1,5 @@
 
-import { useEffect } from 'react';
+
 import './App.css';
 
 
@@ -11,26 +11,8 @@ function App() {
     
     <div className="App">
 
-      <div className="singleProductContainer">
-
-        <div className="top">
-          <div className="topLeft">
-            <image src = " " alt =" "/>
-            <div className="topLeftName">LogoName</div>
-          </div>
-          <div className="topMiddle">
-
-          </div>
-          <div className="topRight"></div>
-        </div>
-        <div className="middle"></div>
-        <div className="bottom"></div>
-
-      </div>
-      
-
-
-     
+     <h1>Moonshot</h1>
+           
     </div>
   );
 }
